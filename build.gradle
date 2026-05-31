@@ -116,7 +116,7 @@ publishing {
     }
     repositories {
         maven {
-            name = "HowXu's Maven"
+            name = "HowXu-Maven"
             url = uri("https://maven.howxu.cn/")
             credentials {
                 username = System.getenv("MAVEN_USERNAME")
